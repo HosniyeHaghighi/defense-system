@@ -1,0 +1,25 @@
+{
+  "name": "defense-system",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.11.3",
+    "@vueuse/core": "^14.2.1",
+    "lucide-vue-next": "^0.564.0",
+    "nuxt": "^4.3.1",
+    "vue": "^3.5.28",
+    "vue-router": "^4.6.4",
+    "vue-sonner": "^2.0.9"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.14.0",
+    "vite-tsconfig-paths": "^6.1.1"
+  }
+}
