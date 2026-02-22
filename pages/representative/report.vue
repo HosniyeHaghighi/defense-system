@@ -189,7 +189,6 @@
         </div>
       </div>
 
-      <!-- فوتر انتهایی (بدون Absolute برای جلوگیری از تداخل) -->
       <div
         class="mt-24 border-t-2 border-gray-900 pt-8 flex justify-between items-center"
       >
@@ -209,12 +208,10 @@
           </div>
         </div>
 
-        <!-- بخش QR Code با استایل منظم -->
         <div class="flex flex-col items-center gap-2">
           <div
             class="w-20 h-20 bg-gray-50 border-2 border-gray-100 rounded-xl flex items-center justify-center p-2"
           >
-            <!-- در اینجا می‌توانید از یک تصویر QR واقعی استفاده کنید -->
             <div
               class="w-full h-full bg-slate-200 rounded flex items-center justify-center text-[8px] text-slate-400 text-center font-bold"
             >
